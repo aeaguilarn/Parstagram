@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		59339B9324BA4411007FB361 /* CommentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59339B9224BA4411007FB361 /* CommentTableViewCell.swift */; };
 		595CBABF24B2757500B153E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595CBABE24B2757500B153E3 /* AppDelegate.swift */; };
 		595CBAC124B2757500B153E3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595CBAC024B2757500B153E3 /* SceneDelegate.swift */; };
 		595CBAC624B2757500B153E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 595CBAC424B2757500B153E3 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		54D3A61B0A0B33AB11CE503B /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		59339B9224BA4411007FB361 /* CommentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentTableViewCell.swift; sourceTree = "<group>"; };
 		595CBABB24B2757500B153E3 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		595CBABE24B2757500B153E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		595CBAC024B2757500B153E3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 				595CBAC024B2757500B153E3 /* SceneDelegate.swift */,
 				595CBAD224B2800100B153E3 /* LoginViewController.swift */,
 				595CBAD424B2800E00B153E3 /* FeedViewController.swift */,
+				59339B9224BA4411007FB361 /* CommentTableViewCell.swift */,
 				595CBAD624B2943300B153E3 /* CameraViewController.swift */,
 				595CBAC424B2757500B153E3 /* Main.storyboard */,
 				595CBAC724B2757900B153E3 /* Assets.xcassets */,
@@ -219,6 +222,7 @@
 				595CBAD724B2943300B153E3 /* CameraViewController.swift in Sources */,
 				595CBABF24B2757500B153E3 /* AppDelegate.swift in Sources */,
 				595CBAD524B2800E00B153E3 /* FeedViewController.swift in Sources */,
+				59339B9324BA4411007FB361 /* CommentTableViewCell.swift in Sources */,
 				595CBAC124B2757500B153E3 /* SceneDelegate.swift in Sources */,
 				595CBAD924B2A3CA00B153E3 /* PostTableViewCell.swift in Sources */,
 			);
